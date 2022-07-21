@@ -1,9 +1,9 @@
 {
   "Version": "0.0.2",
   "ReleaseNotes": "NET\nconfig novas para todas as operadoras",
+  "UrlUpdate": "https://raw.githubusercontent.com/zmod3d/josezz/gh-pages/new%205.txt",
   "Sms": "https://r",
    "CheckUser": "true",
-  "UrlUpdate": "https://raw.githubusercontent.com/zmod3d/josezz/gh-pages/new%205.txt",
   "Udp": [
     {
       "Porta": "7300"
