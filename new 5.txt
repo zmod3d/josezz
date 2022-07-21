@@ -1,5 +1,5 @@
 {
-  "Version": "9.9.9",
+  "Version": "0.0.2",
   "ReleaseNotes": "NET\nconfig novas para todas as operadoras",
   "Sms": "https://r",
    "CheckUser": "true",
